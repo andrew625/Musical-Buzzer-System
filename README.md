@@ -10,4 +10,5 @@ https://github.com/connornishijima/arduino-polytone \
 https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels
 
 ## Demo Video
-https://youtu.be/Nz0NBo8mjbs (without LEDs)
+Disclaimer: The demonstration does not show the feature of LEDs.
+[![Buzzer Demo](http://img.youtube.com/vi/Nz0NBo8mjbs/0.jpg)](http://www.youtube.com/watch?v=Nz0NBo8mjbs "Buzzer Demo")
